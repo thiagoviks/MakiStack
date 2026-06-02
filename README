@@ -34,15 +34,20 @@ MakiStack is organized into independent components:
 ### Build project
 ```bash
 zig build
+```
 
 ### Run project
+```bash
 zig build run
-
+```
 or
 
+```bash
 ./zig-out/bin/MakiStack
+```
 
 ### 📦 Example Output
+```bash
 MakiStack.ndarray loaded
 MakiStack.dataframe loaded
 MakiStack.sql loaded
@@ -64,6 +69,7 @@ HEAD
 3       9100.00 Ana
 
 Mean Salary = 7100.00
+```
 
 ### 🎯 Goals
 Rebuild scientific computing tools from scratch
