@@ -4,7 +4,7 @@ A from-scratch scientific computing ecosystem in Zig combining arrays, dataframe
 
 From my C projects.
 
----
+
 
 ## 🚀 Overview
 
@@ -13,7 +13,7 @@ It is inspired by tools like NumPy, Pandas, SQL engines, and lightweight machine
 
 The goal is to explore systems programming while rebuilding core data science and AI abstractions from scratch with full control over memory, performance, and architecture.
 
----
+
 
 ## 🧩 Modules
 
@@ -27,7 +27,7 @@ MakiStack is organized into independent components:
 - **db** → simple database layer  
 - **scizig** → scientific utilities and glue layer  
 
----
+
 
 ## ⚙️ Build & Run
 
