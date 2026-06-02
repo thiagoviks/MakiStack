@@ -1,0 +1,41 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+# Zig global cache (às vezes aparece em alguns setups)
+.zig-cache/
+
+# Executáveis gerados
+*.exe
+*.out
+*.bin
+*.app
+
+# Debug / core dumps
+core
+*.core
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+
+# Build artifacts (casos customizados)
+build/
+build-*/
+
+# Zig test outputs (se você gerar arquivos em testes)
+test_output/
